@@ -1,4 +1,5 @@
-# Expectations (July 13-31, 7-9 hours per day, Monday-Friday)
+# Expectations 
+### Dates and Time: (July 13-31, 7-9 hours per day, Monday-Friday)
 As an interactive NMA student you will be expected to:
 - Be present for every day of the Academy in your designated time slots (we will choose a
 time slot for you based on your indicated availability in the Round 2 application). This
