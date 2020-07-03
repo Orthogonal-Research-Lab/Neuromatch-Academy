@@ -2,7 +2,7 @@
 
 https://www.crowdcast.io/e/ohbm-causality
 
-On July 2, 2020, there was a Crowdcast discussion following up on a sidebar from [OHBM's conference](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3989), wherein several associated with NMA spoke about Causality in Neuroscience, and some of the obstacles and limits therein.
+On July 2, 2020, there was a Crowdcast video chat session following up on a sidebar from [OHBM's conference](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3989), wherein several associated with NMA spoke / engaged in a discussion about Causality in Neuroscience, and some of the obstacles and limits therein.
  
 Symposium abstract:  Elucidating the Causality in “Causal Brain Circuits”: Theory, methods, and applications (Organizer: Manjari Narayan)
 
