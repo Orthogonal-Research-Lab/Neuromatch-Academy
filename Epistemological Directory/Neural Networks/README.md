@@ -2,6 +2,8 @@
 A general folder for discussing what they are, their varities, and how to understand them
 
 ## Resources
+General overviews
+- Encyclopedia Britannica: https://www.britannica.com/technology/neural-network
 
 ### What does it mean to understand a neural network?
 by Timothy P. Lillicrap, Konrad P. Kording
