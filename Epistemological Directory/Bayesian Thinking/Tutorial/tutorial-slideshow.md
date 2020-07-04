@@ -1,48 +1,72 @@
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide1.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide1.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number2.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide2.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number3.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide3.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Number4.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide4.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide5-1.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide5.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide5-2.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide6.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide5-3.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide7.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide6.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide8.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide7.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide9.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide8.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide10.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide9.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide11.png"><BR>
 </p>
 <p align="center">
-  <img width="480" height="270" src="https://github.com/devoworm/Group-Meetings/blob/master/Developmental%20Brains%20and%20Perception/Morphogenetic%20Agents/Slide10.png"><BR>
-  Click to enlarge.
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide12.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide13.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide14.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide15.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide16.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide17.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide18.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide19.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide20.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide21.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide22.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide23.png"><BR>
+</p>
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide24.png"><BR>
 </p>
