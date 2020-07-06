@@ -8,11 +8,11 @@ This GitHub Repo is a place to explore topics and ideas surrounding the NMA cour
 - In [Student Folders](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/tree/master/Students), feel free to include an intro and any personal work associated with your NMA prep or ideas that may not fit into the shared Epistemic Directories section. 
 
 
-Contributions can be made via [issues](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/issues), pull requests, additions to the [Project Board](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/projects/1), or submitted via [e-mail](mailto:Orthogonal-Lab@outlook.com). 
+Contributions can be made via [issues](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/issues), pull requests, or submitted via [e-mail](mailto:Orthogonal-Lab@outlook.com). 
 
 - Have a question or idea? [Make an issue](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/issues), either in general, or related to an epistemic directory. 
 - Contribute to [Epistemic Directories](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/tree/master/Epistemological%20Directory) by adding resources and your own understanding to the community's shared and collaboratively generated education materials.
-- Check the [NMA Project Board](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/projects/1) for requested topics, or add your own! 
+- Check the [Project Board](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/projects/1) for requested topics, or add your own! 
 
 
 
