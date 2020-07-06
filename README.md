@@ -1,4 +1,4 @@
-## Welcome to the Neuromatch Academy Epistemological Directory!
+## Welcome to OREL's Neuromatch Academy Study Grounp Materials & Epistemological Directories!
 Neuromatch Academy (NMA), July 13-31 (2020)  
 
 This is a place to explore topics and ideas surrounding the NMA course prep and content. 
