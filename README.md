@@ -12,3 +12,4 @@ Don't forget to go through the preparatory materials! While the curriculum does 
 ### NMA Links
 - Neuromatch Academy website:  [link](https://neuromatch.io/academy/)
 - Github repository precourse and course content (run by NMA)  [link](https://github.com/NeuromatchAcademy)
+- NeuroStars discussion forum for NMA [link](https://neurostars.org/c/neuromatch-academy/16)
