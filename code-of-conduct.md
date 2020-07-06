@@ -6,7 +6,7 @@
 
 2) contributions are not financially reimbursed and subject to the [CC-BY-SA-4.0](https://github.com/devoworm/OW-DW-Education/blob/master/CC-BY-SA-4.0%20License.md) Creative Commons license.
 
-3) plagiarism will not be tolerated, but will be evaluated on a case-by-case basis. Plagiarism includes knowingly taking credit for other people's ideas, copying and pasting large blocks of text verbatim, and not using proper attribution. 
+3) plagiarism will not be tolerated, but will be evaluated on a case-by-case basis. Plagiarism includes knowingly taking credit for other people's ideas, copying and pasting large blocks of text verbatim without proper citation, and not using proper attribution. 
 
 3) all contributions are subject to review by OpenWorm Senior Contributors. Inappropriate content will be removed or rejected. Senior contributors reserve the right to modify and/or change the structure of contributions, which may happen in consultation with the original contributor.
 
