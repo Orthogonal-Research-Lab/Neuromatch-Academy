@@ -14,4 +14,4 @@ This is a space to add files for your prep materials and related coureswork here
 Need Help?
 - If you need write-access to this repo, ask Bradly in DM, Slack or Keybase
 - Or ask Jesse for assistance with any of these items / how to use GitHub
-- Go ahead and update your ReadMe file when you're ready to add more to your subfolder! You can delete this Welcome Message when you no longer need it. 
+- *Go ahead and update your ReadMe file when you're ready to add more to your subfolder! You can delete this Welcome Message when you no longer need it.*
