@@ -1,7 +1,7 @@
 ### Welcome to the Neuromatch Academy Epistemological Directory!
 Neuromatch Academy (NMA), July 13-31 (2020)  
 
-This is a place to explore topics and ideas surrounding the NMA course prep and content. In this Epistemological Directory (ED), you will find a series of topical stubs, which you can contribute to with infographics, reference lists, notes and points to revisit, or even slideshows! Please make sure that images are not copyrighted, and a [code of conduct](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/code-of-conduct.md) is in force.
+This is a place to explore topics and ideas surrounding the NMA course prep and content. In this Epistemological Directory (ED), you will find a series of topical stubs, which you can contribute to with infographics, reference lists, notes and points to revisit, or even slideshows! Please make sure that images are not copyrighted, and a [code of conduct](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/code-of-conduct.md) is in force (which includes rules on plagiarism).
 
 Contributions can be made as pull request, or submitted via [e-mail](mailto:Orthogonal-Lab@outlook.com). You can also annotate this README using [Hypothes.is](https://web.hypothes.is/start/) (using their Chrome plug-in or bookmarklet). For text-based pull requests, you should create .md files written in Markdown ([click here](https://drive.google.com/file/d/1zXlZ2tEndNPOO1vmL4_MoAt-Tqjd0dUU/view?usp=sharing) for a quick tutorial).
 
