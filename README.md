@@ -1,4 +1,4 @@
-## Welcome to OREL's Neuromatch Academy Study Grounp Materials & Epistemological Directories!
+## Welcome to OREL's Neuromatch Academy Study Group Materials & Epistemological Directories!
 Neuromatch Academy (NMA), July 13-31 (2020)  
 
 *Join our [discussion group](https://representational-brains-phenotypes.weebly.com/neuromatch-academy.html)! We will also be collaborating in groups using this repository, [OREL Slack](https://app.slack.com/client/T48BNG3A5/C015B5V5TEH), and [OREL Keybase](https://keybase.io/team/orthogonal_lab).*
