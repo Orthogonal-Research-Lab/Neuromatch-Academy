@@ -5,6 +5,7 @@ Subdirectory for DL!
 
 ### Resources
 - Deep Learning with PyTorch (Free Ebook) https://pytorch.org/deep-learning-with-pytorch
+- Full Stack Deep Learning (Onlien Course) https://course.fullstackdeeplearning.com/ 
 
 
 
