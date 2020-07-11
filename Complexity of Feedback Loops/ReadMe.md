@@ -1,3 +1,4 @@
+# Project Idea
 Explore the complexities of feedback (e.g. sensorimotor) loops through the use of simulated agents exhibiting different degrees of representation (on a continuum from representation-free to representation-rich). Implementation might include Bayesian models, agent-based models, or something as simple as a pendulum.
 
 ### Scientific context 
