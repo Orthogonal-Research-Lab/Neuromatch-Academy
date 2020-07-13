@@ -1,5 +1,6 @@
 # Neuromatch Academy Home Basse
 ## Log
+- 07.11 Sorted out personal POD and making way through tutorials 
 - 07.06 Huge updates to OREL's NMA repo's structure and documentation. Set up individual student folders. 
 - 07.01 Fleshing out Episdemic Directories
 - 06.2X Coordination & some copy editing
