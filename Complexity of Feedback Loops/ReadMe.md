@@ -21,7 +21,7 @@ If we increase the degree of representation (mapping between behavioral outcomes
 ### Data set
 IBL Mouse Dataset: [description](https://data.internationalbrainlab.org/)
 
-How to set up data: [Co-lab](https://colab.research.google.com/drive/19BTZT1zsduLXdT9GGbVzIw1g3Lt38VfW?usp=sharing)
+How to set up data: [Notebook](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Complexity%20of%20Feedback%20Loops/how-to-set-up-data.ipynb)
 
 Data set description: [video](https://www.youtube.com/watch?v=NofrFH8FRZU)
 
