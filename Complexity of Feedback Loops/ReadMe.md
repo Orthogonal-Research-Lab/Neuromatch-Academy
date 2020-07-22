@@ -30,9 +30,9 @@ Data set description: [video](https://www.youtube.com/watch?v=NofrFH8FRZU)
 
 
 ### Techniques
-Bayesian model, Agent-based Model, or Reinforcement Learning.
+Pick one of three types of models: Bayesian model, Agent-based Model, or Reinforcement Learning.
 
 
 ### Controls
-No-representation feed-forward model of behavior.
+Zero-order representation feed-forward model of behavior (binary switch).
 
