@@ -1,6 +1,9 @@
 # Project Idea
 Explore the complexities of feedback (e.g. sensorimotor) loops through the use of simulated agents exhibiting different degrees of representation (on a continuum from representation-free to representation-rich). Does an intelligent agent (or organism) require a minimal (or maximum) level of representational complexity (mapping between phenomena and neurons) to produce and act upon feedback? Implementation might include Bayesian models, agent-based models, or something as simple as a pendulum.
 
+<p align="center">
+  <img src="https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/blob/master/Epistemological%20Directory/Bayesian%20Thinking/Tutorial/Slide8.png"><BR>
+</p>
 
 ### Scientific context 
  We also know that feedback plays a critical role in behavioral regulation, observed in a wide variety of systems: autonomic processes, movement, and social interaction. Using a variety of representational frameworks, how can we characterize this complexity? Does an intelligent agent (or organism) require a minimal level of representational complexity to produce and act upon feedback? 
